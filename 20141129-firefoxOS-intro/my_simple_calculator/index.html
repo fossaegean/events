@@ -1,0 +1,94 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Simple Calculator</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+
+<!-- Geia sou kosme, auto einai ena sxolio -->
+
+<br>
+<form name="form">
+  <div class="row">
+    <div class="large-6 large-centered columns">
+        <input type="text" name="result"/>
+    </div>
+  </div>
+
+	<div class="row">
+		<div class="large-6 large-centered columns">
+			<ul class="button-group even-4">  	
+				<li><a href="#" class="button" onClick="run7()">7</a></li>
+				<li><a href="#" class="button" onClick="run8()">8</a></li>
+				<li><a href="#" class="button" onClick="run9()">9</a></li>
+				<li><a href="#" class="button" onClick="div()">/</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="large-6 large-centered columns">
+			<ul class="button-group even-4">  	
+				<li><a href="#" class="button" onClick="run4()">4</a></li>
+				<li><a href="#" class="button" onClick="run5()">5</a></li>
+				<li><a href="#" class="button" onClick="run6()">6</a></li>
+				<li><a href="#" class="button" onClick="mul()">x</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="large-6 large-centered columns">
+			<ul class="button-group even-4">  	
+				<li><a href="#" class="button" onClick="run1()">1</a></li>
+				<li><a href="#" class="button" onClick="run2()">2</a></li>
+				<li><a href="#" class="button" onClick="run3()">3</a></li>
+				<li><a href="#" class="button" onClick="sub()">-</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="large-6 large-centered columns">
+			<ul class="button-group even-4">  	
+				<li><a href="#" class="button" onClick="form.reset()">c</a></li>
+				<li><a href="#" class="button" onClick="run0()">0</a></li>
+				<li><a href="#" class="button" onClick="result()">=</a></li>
+				<li><a href="#" class="button" onClick="add()">+</a></li>
+			</ul>
+		</div>
+	</div>
+
+</form>
+
+	<div class="row">
+		<div id="footer" class="large-6 large-centered columns">
+			<hr>
+			<p>Developed by "Your name goes here".</p>
+		</div>
+	</div>
+
+		<!-- oi functions pou grapsame vriskontai sto arxeio buttons.js sto fakelo js -->
+    <script src="js/buttons.js"></script>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+

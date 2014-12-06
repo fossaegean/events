@@ -20,7 +20,6 @@
 * [Foundation front-end](http://foundation.zurb.com/)
 * [Twitter Bootstrap](http://getbootstrap.com/css/)
 * [Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-
 * [Learn HTML/CSS on CodeCademy](http://www.codecademy.com/en/tracks/web)
 
 ## Resources for Ruby
@@ -29,7 +28,6 @@
 * [Rubygems](http://docs.rubygems.org/)
 * [Ruby Community Style Guide](https://github.com/styleguide/ruby)
 * [Ruby Rogues podcast](http://devchat.tv/ruby-rogues/)
-
 * [Learn Ruby on CodeCademy](http://www.codecademy.com/en/tracks/ruby)
 * [Try Ruby online (mini lesson)](href{http://tryruby.org/)
 

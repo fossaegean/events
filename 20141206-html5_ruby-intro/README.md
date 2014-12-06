@@ -13,23 +13,23 @@
 ---
 
 ## Resources for HTML5
-[w3fools](http://www.w3fools.com/)
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-[html5doctor](http://html5doctor.com/}{html5doctor)
-[html5rocks](http://www.html5rocks.com/en/)
-[Foundation front-end](http://foundation.zurb.com/)
-[Twitter Bootstrap](http://getbootstrap.com/css/)
-[Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [w3fools](http://www.w3fools.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [html5doctor](http://html5doctor.com/}{html5doctor)
+* [html5rocks](http://www.html5rocks.com/en/)
+* [Foundation front-end](http://foundation.zurb.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/css/)
+* [Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
-[Learn HTML/CSS on CodeCademy](http://www.codecademy.com/en/tracks/web)
+* [Learn HTML/CSS on CodeCademy](http://www.codecademy.com/en/tracks/web)
 
 ## Resources for Ruby
-[Ruby homepage](https://www.ruby-lang.org/en/)
-[Ruby docs](http://ruby-doc.org/)
-[Rubygems](http://docs.rubygems.org/)
-[Ruby Community Style Guide](https://github.com/styleguide/ruby)
-[Ruby Rogues podcast](http://devchat.tv/ruby-rogues/)
+* [Ruby homepage](https://www.ruby-lang.org/en/)
+* [Ruby docs](http://ruby-doc.org/)
+* [Rubygems](http://docs.rubygems.org/)
+* [Ruby Community Style Guide](https://github.com/styleguide/ruby)
+* [Ruby Rogues podcast](http://devchat.tv/ruby-rogues/)
 
-[Learn Ruby on CodeCademy](http://www.codecademy.com/en/tracks/ruby)
-[Try Ruby online (mini lesson)](href{http://tryruby.org/)
+* [Learn Ruby on CodeCademy](http://www.codecademy.com/en/tracks/ruby)
+* [Try Ruby online (mini lesson)](href{http://tryruby.org/)
 

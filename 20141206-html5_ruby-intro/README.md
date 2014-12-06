@@ -29,5 +29,5 @@
 * [Ruby Community Style Guide](https://github.com/styleguide/ruby)
 * [Ruby Rogues podcast](http://devchat.tv/ruby-rogues/)
 * [Learn Ruby on CodeCademy](http://www.codecademy.com/en/tracks/ruby)
-* [Try Ruby online (mini lesson)](href{http://tryruby.org/)
+* [Try Ruby online (mini lesson)](http://tryruby.org/)
 
